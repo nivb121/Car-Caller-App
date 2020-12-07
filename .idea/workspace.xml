@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e68f8b6e-42bb-4281-9b1b-51d93fd768ac" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_28" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kvrNhNOwBHsKjJsfo87RKO2n9n" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nivb1\IdeaProjects\car_caller\lib" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e68f8b6e-42bb-4281-9b1b-51d93fd768ac" name="Default Changelist" comment="" />
+      <created>1606591868056</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606591868056</updated>
+      <workItem from="1606591879028" duration="639000" />
+      <workItem from="1606592559048" duration="25000" />
+      <workItem from="1606593047726" duration="2960000" />
+      <workItem from="1606634417794" duration="139000" />
+      <workItem from="1606658049844" duration="1153000" />
+      <workItem from="1606831822350" duration="7607000" />
+      <workItem from="1606914486079" duration="13620000" />
+      <workItem from="1606979769763" duration="1096000" />
+      <workItem from="1606980886395" duration="115000" />
+      <workItem from="1606981134221" duration="441000" />
+      <workItem from="1606981636524" duration="179000" />
+      <workItem from="1606981819073" duration="6462000" />
+      <workItem from="1607013685984" duration="4053000" />
+      <workItem from="1607017745865" duration="4148000" />
+      <workItem from="1607070010477" duration="4803000" />
+      <workItem from="1607074893693" duration="177000" />
+      <workItem from="1607085444339" duration="3176000" />
+      <workItem from="1607088909846" duration="1117000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1506" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606982070795">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1506" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1606982070795" />
+    <state x="-1230" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1607086654370">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1230" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1607086654370" />
+    <state x="-1180" y="274" key="FileChooserDialogImpl" timestamp="1606592400274">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1180" y="274" key="FileChooserDialogImpl/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1606592400274" />
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1607088625052">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1607088625052" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1607088625052">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1607088625052" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1607088625052">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1607088625052" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1607088625052">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1607088625052" />
+    <state x="-1574" y="188" key="SettingsEditor" timestamp="1607017734723">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1574" y="188" key="SettingsEditor/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1607017734723" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1606980886828">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1606980886828" />
+    <state x="-938" y="0" width="954" height="716" key="dock-window-1" timestamp="1606919564619">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-938" y="0" width="954" height="716" key="dock-window-1/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1606919564619" />
+    <state x="-1744" y="129" width="607" height="789" key="find.popup" timestamp="1606915796557">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1744" y="129" width="607" height="789" key="find.popup/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1606915796557" />
+    <state x="-1578" y="244" key="new project wizard" timestamp="1606593060660">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1578" y="244" key="new project wizard/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1606593060660" />
+    <state x="-1800" y="253" width="700" height="530" key="recent.locations.popup" timestamp="1607014332184">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1800" y="253" width="700" height="530" key="recent.locations.popup/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1607014332184" />
+  </component>
+</project>
