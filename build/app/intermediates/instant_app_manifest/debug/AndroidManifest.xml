@@ -33,8 +33,8 @@
         android:name="io.flutter.app.FlutterApplication"
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:debuggable="true"
-        android:icon="@mipmap/ic_launcher"
-        android:label="car_caller" >
+        android:icon="@mipmap/launcher_icon"
+        android:label="Car Caller" >
         <activity
             android:name="com.example.car_caller.MainActivity"
             android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
@@ -76,11 +76,6 @@
         <meta-data
             android:name="flutterEmbedding"
             android:value="2" />
-
-        <activity
-            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
-            android:exported="false"
-            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
     </application>
 
 </manifest>

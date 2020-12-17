@@ -23,11 +23,13 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  flutter_launcher_icons: ^0.8.1
+  flutter_launcher_name: ^0.0.1
   permission_handler: ^5.0.1+1
   contacts_service: ^0.4.6
-  url_launcher: ^5.7.10
   flutter_phone_direct_caller: ^1.0.1
   call_log: ^2.1.0
+  date_format: ^1.0.9
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
@@ -37,6 +39,15 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
 
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icon_rect.png"
+  image_path_android: "assets/icon_circle.png"
+
+
+flutter_launcher_name:
+  name: "Car Caller"
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
 

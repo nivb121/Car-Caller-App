@@ -11,8 +11,8 @@
 
     <application
         android:name="io.flutter.app.FlutterApplication"
-        android:label="car_caller"
-        android:icon="@mipmap/ic_launcher">
+        android:label="Car Caller"
+        android:icon="@mipmap/launcher_icon">
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"

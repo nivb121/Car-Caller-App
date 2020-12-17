@@ -1,24 +1,21 @@
-import 'package:car_caller/PhoneRecord.dart';
-import 'package:car_caller/add_manually.dart';
-import 'package:car_caller/call_button.dart';
-import 'package:car_caller/call_log_picker.dart';
-import 'package:car_caller/remove_button.dart';
+import './data_types/PhoneRecord.dart';
+import 'pages/add_manually.dart';
 import 'package:flutter/material.dart';
-import 'package:car_caller/contact_choose.dart';
+import 'buttons/call_button.dart';
+import 'pages/call_log_picker.dart';
+import 'buttons/remove_button.dart';
+import 'pages/contact_choose.dart';
+import './data_types/contacts_widgets.dart';
+
 
 
 void main() async {
   runApp(new MaterialApp(
-    // routes: <String, WidgetBuilder>{
-    //   '/Home': (BuildContext context) => new HomePage(),
-    //   '/Contacts': (BuildContext context) => new ContactChoose(),
-    // },
     home: Directionality(
       child: HomePage(),
       textDirection: TextDirection.rtl,
     ),
     darkTheme: ThemeData.dark(),
-    // theme: ThemeData.dark(),
   ));
 }
 
@@ -36,10 +33,12 @@ class _HomePageState extends State<HomePage> {
     BottomNavigationBarItem(icon: Icon(Icons.contact_phone), label: "אנשי קשר", backgroundColor: Colors.blueAccent,),
     BottomNavigationBarItem(icon: Icon(Icons.dialpad), label: "ידני", backgroundColor: Colors.blueAccent,),
   ];
+  ContactsWidgets nameToWidget;
 
   @override
   void initState() {
     List<PhoneRecord> elements = [];
+    nameToWidget = new ContactsWidgets(_addElement);
     super.initState();
   }
 
@@ -50,15 +49,6 @@ class _HomePageState extends State<HomePage> {
     if (index == 0) {}
     else if (index == 1) {
       _callLogClick();
-      // showDialog(
-      //     context: context,
-      //     builder: (BuildContext context) {
-      //       return AlertDialog(
-      //         title: new Text("בקרוב!",textDirection: TextDirection.rtl,),
-      //         actions: [FlatButton(onPressed: (){Navigator.of(context).pop();}, child: new Text("OK",textDirection: TextDirection.rtl))],
-      //         elevation: 24.0,
-      //       );}
-      // );
     }
     else if(index == 2) {
       _contactsClick();
@@ -84,7 +74,10 @@ class _HomePageState extends State<HomePage> {
     Navigator.of(context).push(
         new MaterialPageRoute(
             builder: (BuildContext context) =>
-              new ContactChoose(addElement: _addElement)
+              new ContactChoose(
+                addElement: _addElement,
+                nameToWidget: nameToWidget,
+              )
         )
     );
   }
@@ -121,7 +114,7 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     return new Scaffold(
       appBar: new AppBar(
-        title: new Text("האפליקציה של ניב"),
+        title: new Text("Car Caller"),
         centerTitle: true,
       ),
       body: new Container(
@@ -134,17 +127,17 @@ class _HomePageState extends State<HomePage> {
               return contactToTile(elements[index], index);
         },),
       ),
-      drawer: new Container(
-          color: Colors.white,
-          padding: new EdgeInsets.all(32.0),
-          child: new Column(
-              children: <Widget>[
-                IconButton(icon: new Icon(Icons.nights_stay), onPressed: () {
-                  print("clicked!");
-                }),
-              ]
-          )
-      ),
+      // drawer: new Container(
+      //     color: Colors.white,
+      //     padding: new EdgeInsets.all(32.0),
+      //     child: new Column(
+      //         children: <Widget>[
+      //           IconButton(icon: new Icon(Icons.nights_stay), onPressed: () {
+      //             print("clicked!");
+      //           }),
+      //         ]
+      //     )
+      // ),
       bottomNavigationBar: new BottomNavigationBar(
         items: navBar,
         onTap: _navTap,

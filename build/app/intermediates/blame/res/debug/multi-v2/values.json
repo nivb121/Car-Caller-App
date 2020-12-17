@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\nivb1\\IdeaProjects\\car_caller\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\nivb1\\IdeaProjects\\car_caller\\Car-Caller-App\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\nivb1\\.gradle\\caches\\transforms-2\\files-2.1\\454541ed0d74e0d0babd214b189709ff\\coordinatorlayout-1.0.0\\res\\values\\values.xml",
@@ -42,7 +42,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\nivb1\\IdeaProjects\\car_caller\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "C:\\Users\\nivb1\\IdeaProjects\\car_caller\\Car-Caller-App\\android\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

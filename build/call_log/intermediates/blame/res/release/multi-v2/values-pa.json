@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\nivb1\\IdeaProjects\\car_caller\\build\\call_log\\intermediates\\res\\merged\\release\\values-pa\\values-pa.xml",
+            "outputFile": "C:\\Users\\nivb1\\IdeaProjects\\car_caller\\Car-Caller-App\\build\\call_log\\intermediates\\res\\merged\\release\\values-pa\\values-pa.xml",
             "map": [
                 {
                     "source": "C:\\Users\\nivb1\\.gradle\\caches\\transforms-2\\files-2.1\\6b399c2363bb098ebde1725d903cbda0\\core-1.1.0\\res\\values-pa\\values-pa.xml",
@@ -16,7 +16,7 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\nivb1\\IdeaProjects\\car_caller\\build\\call_log\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-pa\\values-pa.xml",
+            "outputFile": "C:\\Users\\nivb1\\IdeaProjects\\car_caller\\Car-Caller-App\\build\\call_log\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-pa\\values-pa.xml",
             "map": [
                 {
                     "source": "C:\\Users\\nivb1\\.gradle\\caches\\transforms-2\\files-2.1\\6b399c2363bb098ebde1725d903cbda0\\core-1.1.0\\res\\values-pa\\values-pa.xml",
