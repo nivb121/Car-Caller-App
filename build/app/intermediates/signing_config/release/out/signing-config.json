@@ -1,1 +1,1 @@
-{"mName":"debug","mStoreFile":"C:\\Users\\nivb1\\.android\\debug.keystore","mStorePassword":"android","mKeyAlias":"AndroidDebugKey","mKeyPassword":"android","mStoreType":"jks","mV1SigningEnabled":true,"mV2SigningEnabled":true}
+{"mName":"release","mStoreFile":"C:\\Users\\nivb1\\key.jks","mStorePassword":"zi3nivXmd@","mKeyAlias":"key","mKeyPassword":"zi3nivXmd@","mStoreType":"jks","mV1SigningEnabled":true,"mV2SigningEnabled":true}
