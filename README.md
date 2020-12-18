@@ -8,16 +8,16 @@ The app was designed to help and reduce the time people spent touching their cel
 ## Features
 
 ### Adding planned calls to your list:
-____________
+-------------
 #### Add Manually
    *  Type in a display name & phone number
-___________
+-------------
 #### Add from your contacts
    * See all your contacts in a list
    * Use the free text filter to search for a specific contact
    * Select a contact 
    * Chose a phone number from the list of available numbers (saved to this contact)
-___________
+-------------
 #### Add from your call log
    * See all of your calls in a list
    * Use the date pickers to filter and show calls from specific dates
