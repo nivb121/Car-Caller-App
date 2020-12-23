@@ -1,0 +1,4 @@
+#Wed Dec 23 20:31:01 IST 2020
+base.0=C\:\\Users\\nivb1\\IdeaProjects\\car_caller\\Car-Caller-App\\build\\app\\intermediates\\transforms\\r8\\release\\0\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
