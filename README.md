@@ -5,15 +5,23 @@ The app was designed to help and reduce the time people spent touching their cel
 
 ## Table of contents
 * [General info](#general-info)
+* [Installing](#installing)
 * [Technologies](#technologies)
 * [Features](#features)
 * [Screenshots](#screenshots)
-* [Setup](#setup)
 * [Status](#status)
 * [Contact](#contact)
 
 ## General info
 Add more general information about project. What the purpose of the project is? Motivation?
+
+## Installing
+### Install via Google Play Store
+Soon!
+
+### Install an APK file
+* go to [here](https://github.com/nivb121/Car-Caller-App/tree/main/build/app/outputs/apk/release) and download app-release.apk to your device
+* install the apk file using android's default apk installer
 
 
 ## Technologies
@@ -47,9 +55,6 @@ Press the red "remove" button to remove a planned call from your list
 * Enable to build and save few pre-sets of planned calls
 
 ## Screenshots
-TBA
-
-## Setup
 TBA
 
 ## Status
